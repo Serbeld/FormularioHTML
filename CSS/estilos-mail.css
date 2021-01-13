@@ -121,3 +121,15 @@ footer{
 	text-align: center;
 	margin: 50px;
 }
+
+/* Whatsapp */
+.whatsapp{
+	display: block; 
+	position: fixed; 
+	bottom: 1.4em; 
+	right: 1.4em; 
+	cursor: 
+	pointer; 
+	z-index: 99999999;
+	width: 50px;
+}
