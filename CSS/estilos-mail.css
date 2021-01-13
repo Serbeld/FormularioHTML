@@ -28,8 +28,7 @@ body{
 	margin-right: 5vw;
 	background: #333;
 	padding: 20px;
-	border: 14px inset #000;
-	outline: 4px inset #094;
+	border: 10px inset #094;
 }
 
 .form {
